@@ -16,3 +16,5 @@ INSTALLATION
  STEP 4:
      
      COMMAND >>>python grocery_inventory_management.py
+
+dDOCUMENTATION AND SCREENSHOTS LINK  " https://drive.google.com/drive/folders/1Tbdt7JBVBi43RMB_eSGhOj82lgJCQK9m?usp=sharing "
