@@ -14,4 +14,5 @@ INSTALLATION
       
       SAMPLE COMMAND >>>CD Downloads
  STEP 4:
-      >>>python grocery_inventory_management.py
+     
+     COMMAND >>>python grocery_inventory_management.py
