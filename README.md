@@ -12,7 +12,7 @@ INSTALLATION
   STEP 3: 
       OPEN CMD & CHANGE DIRECTORY TO THE REPPOSITORY FILE LOCATION
       
-      SAMPLE COMMAND >>>CD Downloads
+       COMMAND >>>cd Downloads
  STEP 4:
      
      COMMAND >>>python grocery_inventory_management.py
